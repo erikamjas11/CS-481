@@ -1,0 +1,7 @@
+Assignment 3
+Project 3
+Further Extension of the Shell
+Converting each command to a thread
+Due 4/27, 11:59 p.m.
+ 
+Convert each command in the first project to a thread. To synchronize a command so that it behaves exactly like your current project, you need to use the java API method join
