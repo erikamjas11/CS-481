@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Rename
+comment1.params=name
+comment1.target=Rename(java.lang.String)
+comment1.text=\ Command\:\r\n\ \ \ \ rename\ nameA\ nameB\r\n\ \ \ \ Action\:\r\n\ \ \ \ Renames\ the\ file\ nameA\ to\ the\ file\ nameB.\r\n\ \ \ \ Use\ your\ classes\ Copy\ and\ Delete\ for\ this.\r\n\ \ \ \ Errors\:\r\n\ \ \ \ The\ user\ enters\:\r\n\ \ \ \ 1.\ rename\ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ names\ nameA\ and\ nameB\ are\ missing.\r\n\ \ \ \ When\ there\ is\ an\ error\ println\ a\ message\ and\ return\ (not\ exit).\r\n
+comment2.params=name
+comment2.target=void\ f(java.lang.String)
+numComments=3

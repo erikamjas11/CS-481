@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dir
+comment1.params=name
+comment1.target=Dir(java.lang.String)
+comment1.text=\ Command\:\:\r\n\ \ \ \ dir\ name\ \ \ \ \ \ \ \ \ \ \ where\ name\ must\ be\ null\ or\ the\ name\ of\ a\ directory\ and\ its\ paths.\r\n\ \ \ \ Action\:\r\n\ \ \ \ List\ the\ file\ and\ directory\ names\ in\ this\ directory.\r\n\ \ \ \ Note\ that\ if\ the\ user\ enters\ "dir"\ it\ is\ OK\ and\ it\ means\ the\ current\r\n\ \ \ \ directory.\ In\ this\ case\ as\ you\ know\ a\ period\ (e,g\ .)\ means\ the\ current\r\n\ \ \ \ directory\r\n\ \ \ \ Errors\:\r\n\ \ \ \ The\ user\ enters\:\r\n\ \ \ \ 1.\ dir\ name\ \ \ \ \ \ \ \ \ \ \ \ \ The\ directory\ name\ does\ not\ exist.\r\n\ \ \ \ 2.\ dir\ name\ \ \ \ \ \ \ \ \ \ \ \ \ But\ the\ name\ does\ is\ not\ a\ directory\ name.\r\n\ \ \ \ When\ there\ is\ an\ error\ println\ a\ message\ and\ return\ (not\ exit).\r\n
+comment2.params=name
+comment2.target=void\ f(java.lang.String)
+comment3.params=file
+comment3.target=boolean\ accept(java.io.File)
+numComments=4

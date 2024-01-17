@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Copy
+comment1.params=name
+comment1.target=Copy(java.lang.String)
+comment1.text=\ Command\:\:\r\n\ \ \ \ copy\ nameA\ nameB\ \ \ \ \ \ where\ nameA\ and\ nameB\ must\ be\ the\ name\ of\ a\ files\ and\ their\ paths.\r\n\ \ \ \ Action\:\r\n\ \ \ \ Copies\ file\ nameA\ to\ file\ nameB.\r\n\ \ \ \ Errors\:\r\n\ \ \ \ The\ user\ enters\:\r\n\ \ \ \ 1.\ copy\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Does\ not\ type\ the\ file\ names.\r\n\ \ \ \ 2.\ copy\ name\ \ \ \ \ \ \ \ \ \ Did\ not\ type\ a\ second\ file\ name.\r\n\ \ \ \ 3.\ copy\ nameA\ nameB\ \ \ but\ the\ file\ nameA\ does\ not\ exist.\r\n\ \ \ \ 4.\ copy\ nameA\ nameB\ \ \ but\ the\ file\ nameB\ alreadyexist.\r\n\ \ \ \ 5.\ copy\ nameA\ nameB\ \ \ but\ nameA\ is\ a\ directory.\r\n\ \ \ \ 6.\ copy\ nameA\ nameB\ \ \ but\ the\ file\ is\ a\ directory.\r\n\ \ \ \ When\ there\ is\ an\ error\ println\ a\ message\ and\ return\ (not\ exit).\r\n
+comment2.params=name
+comment2.target=void\ f(java.lang.String)
+numComments=3

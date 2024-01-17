@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyDate
+comment1.params=
+comment1.target=MyDate()
+comment1.text=\ Command\:\r\n\ \ \ \ date\r\n\ \ \ \ Action\:\r\n\ \ \ \ the\ current\ date\ is\ displayed.\r\n
+comment2.params=
+comment2.target=void\ f()
+numComments=3

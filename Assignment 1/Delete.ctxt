@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Delete
+comment1.params=name
+comment1.target=Delete(java.lang.String)
+comment1.text=\ Command\:\:\r\n\ \ \ \ delet\ name\ \ \ \ \ \ \ \ \ \ \ where\ name\ must\ be\ the\ name\ of\ a\ file\ and\ its\ paths.\r\n\ \ \ \ Action\:\r\n\ \ \ \ delets\ name\r\n\ \ \ \ Errors\:\r\n\ \ \ \ The\ user\ enters\:\r\n\ \ \ \ 1.\ delet\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ user\ did\ not\ type\ the\ file\ name.\r\n\ \ \ \ 2.\ delet\ name\ \ \ \ \ \ \ \ \ \ \ The\ file\ name\ does\ not\ exist\ in\ the\ path.\r\n\ \ \ \ 3.\ delete\ name\ \ \ \ \ \ \ \ \ \ But\ the\ file\ name\ does\ is\ a\ directory.\r\n\ \ \ \ When\ there\ is\ an\ error\ println\ a\ message\ and\ return\ (not\ exit).\r\n
+comment2.params=name
+comment2.target=void\ f(java.lang.String)
+numComments=3

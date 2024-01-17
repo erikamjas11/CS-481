@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyTime
+comment0.text=\ Command\:\r\ntime\r\nAction\:\r\nthe\ current\ time\ is\ displayed.\r\n
+comment1.params=
+comment1.target=MyTime()
+comment2.params=
+comment2.target=void\ f()
+numComments=3

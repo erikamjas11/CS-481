@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Notepad
+comment1.params=
+comment1.target=Notepad()
+comment1.text=\r\n\ \ \ \ Command\:\r\n\ \ \ \ edit\r\n\ \ \ \ Action\:\r\n\ \ \ \ The\ notepad\ editor\ shows\ up\ on\ the\ screen.\r\n\r\n\ \ \ \ Use\ the\ java\ Runtime\ class\ to\ execute\ the\ notepad.exe.\ With\ this\ approch\r\n\ \ \ \ you\ do\ not\ need\ notepad.h,\ notepad.c,\ and\ notepad.exe.\r\n\ \ \ \ This\ approach\ is\ easier\ than\ one\ I\ posted\ last\ week.\ You\ do\ not\r\n\ \ \ \ need\ the\ java\ native\ interface\ (JNI)\ or\ Microsoft\ visual\ C++.\r\n
+comment2.params=
+comment2.target=void\ f()
+numComments=3
